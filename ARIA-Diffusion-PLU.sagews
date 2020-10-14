@@ -156,4 +156,3 @@ sage: print '\n', 'Number of U-CNOT gates =', UCNOT, '\n'
 
 sage: TCNOT = sum(LCNOT + UCNOT - 256)
 sage: print '\n', 'Total number of CNOT gates =', TCNOT
- 
