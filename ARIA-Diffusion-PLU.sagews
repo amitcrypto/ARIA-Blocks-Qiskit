@@ -1,4 +1,6 @@
-︠22c0aa62-bd2c-4d09-9449-e72cb9b50783s︠
+# Copyright (c) Amit Kumar Chauhan, IIT Ropar, India.
+# Licensed under the GNU General Public License. 
+
 sage: import numpy as np
 sage: M = MatrixSpace(GF(2), 128, 128)
 sage: A = M([
