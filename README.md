@@ -10,4 +10,4 @@ SageMath is a free open-source mathematics software system licensed under the GP
 Amit Kumar Chauhan
 
 # References
-[1] Amit Kumar Chauhan, and Somitra Kumar Sanadhya, "Quantum Resource Estimates of Grover's Key Search on ARIA". A submission to crypto consference "Space 2020". 
+[1] Amit Kumar Chauhan, and Somitra Kumar Sanadhya, "Quantum Resource Estimates of Grover's Key Search on ARIA". A submission to Space 2020 conference  https://cse.iitkgp.ac.in/conf/SPACE2020/". 
